@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <br />
     <h1>Prescription Page</h1>
-    <div>
+    <div class="border">
         <asp:Label ID="lblPet" runat="server" Text="Type of Pet"></asp:Label>
         <asp:DropDownList ID="DropDownList1" runat="server">
             <asp:ListItem>Dog</asp:ListItem>
