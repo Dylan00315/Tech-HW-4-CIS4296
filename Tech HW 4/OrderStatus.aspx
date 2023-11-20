@@ -6,6 +6,6 @@
     <h1>Order Status</h1>
     <br />
         <asp:Label ID="Label1" runat="server" Text="Length until medication arrives"></asp:Label>
-        <label class=".text-danger">10 Days</label>
+        <label class="text-danger">10 Days</label>
 
 </asp:Content>
